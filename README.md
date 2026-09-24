@@ -18,9 +18,9 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Status-Building%20Foundations-0ea5e9?style=flat-square" alt="Status"/>
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Web-38bdf8?style=flat-square" alt="Focus"/>
-<img src="https://img.shields.io/badge/Open%20to-Opportunities-22c55e?style=flat-square" alt="Open to"/>
+![Status](https://img.shields.io/badge/Status-Building%20Foundations-0ea5e9?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Full%20Stack%20Web-38bdf8?style=flat-square)
+![Open to](https://img.shields.io/badge/Open%20to-Opportunities-22c55e?style=flat-square)
 
 </div>
 
@@ -47,29 +47,25 @@ I am focused on becoming a strong software developer by building real projects, 
 
 ## Tech Stack
 
-### Languages
-
+**Languages**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Frontend
-
+**Frontend**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend & Databases
-
+**Backend & Databases**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Tools
-
+**Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -111,17 +107,6 @@ const currentFocus = {
 | **Continuous Improvement** | Refactor, test, document, repeat |
 | **Security Basics** | Least privilege and thoughtful defaults |
 | **Ship & Learn** | Perfect is the enemy of progress |
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=momobiswas15-ops&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momobiswas15-ops&layout=compact&theme=default&hide_border=true" height="165" alt="Top Languages" />
-
-</div>
 
 ---
 
