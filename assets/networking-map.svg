@@ -14,7 +14,13 @@
 
   <path d="M172 192H294M412 192H520M638 192H746M864 192H965" stroke="url(#wire)" stroke-width="3" stroke-linecap="round" filter="url(#glow)"/>
   <path d="M353 238C365 287 466 298 520 242M805 238C792 286 692 298 638 242" stroke="#818CF8" stroke-opacity="0.55" stroke-width="2" stroke-dasharray="5 7"/>
-  <g fill="#22D3EE" filter="url(#glow)"><circle cx="234" cy="192" r="4"/><circle cx="466" cy="192" r="4"/><circle cx="692" cy="192" r="4"/><circle cx="916" cy="192" r="4"/></g>
+  <g fill="#22D3EE" filter="url(#glow)">
+    <circle cx="234" cy="192" r="4"><animate attributeName="r" values="4;7;4" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="466" cy="192" r="4"><animate attributeName="r" values="4;7;4" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></circle>
+    <circle cx="692" cy="192" r="4"><animate attributeName="r" values="4;7;4" dur="2.4s" begin="1.2s" repeatCount="indefinite"/></circle>
+    <circle cx="916" cy="192" r="4"><animate attributeName="r" values="4;7;4" dur="2.4s" begin="1.8s" repeatCount="indefinite"/></circle>
+    <circle cx="172" cy="192" r="3"><animate attributeName="cx" values="172;294;412;520;638;746;864;965" dur="7s" repeatCount="indefinite"/></circle>
+  </g>
 
   <g font-family="Inter,Segoe UI,Arial,sans-serif">
     <rect x="58" y="151" width="114" height="82" rx="13" fill="#0B172A" stroke="#22D3EE" stroke-opacity="0.8"/>

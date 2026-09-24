@@ -38,9 +38,14 @@ I am an aspiring software developer from India, focused on turning ideas into cl
 
 ## Live profile metrics
 
+<details open>
+<summary><strong>Open the live dashboard</strong> · click to collapse</summary>
+
+<br />
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=momobiswas15-ops&label=Profile%20views&color=22D3EE&style=flat-square" alt="Profile views counter" />
+<a href="https://github.com/momobiswas15-ops"><img src="https://komarev.com/ghpvc/?username=momobiswas15-ops&label=PROFILE%20VISITS&color=22D3EE&labelColor=0B172A&style=for-the-badge" alt="Profile visits counter; click to visit the GitHub profile" /></a>
 
 <br /><br />
 
@@ -50,7 +55,13 @@ I am an aspiring software developer from India, focused on turning ideas into cl
 
 <sub>The dashboard refreshes daily from public GitHub data. Profile views are counted separately.</sub>
 
+<br /><br />
+
+[Open public GitHub activity](https://github.com/momobiswas15-ops?tab=overview) · [Explore repositories](https://github.com/momobiswas15-ops?tab=repositories)
+
 </div>
+
+</details>
 
 ## Toolbox
 
