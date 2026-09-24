@@ -44,16 +44,11 @@ I am an aspiring software developer from India, focused on turning ideas into cl
 
 <br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=momobiswas15-ops&show_icons=true&hide_border=true&rank_icon=github&title_color=22D3EE&icon_color=818CF8&text_color=CBD5E1&bg_color=0B172A" alt="GitHub statistics for Md Mubaswir Biswas" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momobiswas15-ops&layout=compact&hide_border=true&title_color=22D3EE&text_color=CBD5E1&bg_color=0B172A&langs_count=6" alt="Most used programming languages on GitHub" height="165" />
+<img src="./assets/profile-stats.svg" alt="Live GitHub dashboard showing public repositories, stars, followers, and current language signal" width="95%" />
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=momobiswas15-ops&bg_color=0B172A&color=CBD5E1&line=22D3EE&point=818CF8&area_color=164E63&area=true&hide_border=true&custom_title=Contribution%20activity" alt="Contribution activity graph for Md Mubaswir Biswas" width="95%" />
-
-<br />
-
-<sub>These cards reflect public GitHub activity and update automatically.</sub>
+<sub>The dashboard refreshes daily from public GitHub data. Profile views are counted separately.</sub>
 
 </div>
 
