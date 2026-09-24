@@ -8,7 +8,6 @@ import html
 import json
 import os
 import urllib.request
-from collections import Counter
 from pathlib import Path
 
 USERNAME = os.environ.get("GITHUB_USERNAME", "momobiswas15-ops")
@@ -45,23 +44,20 @@ def main() -> None:
     repos = api(f"/users/{USERNAME}/repos?per_page=100&sort=updated")
 
     stars = sum(int(repo.get("stargazers_count", 0)) for repo in repos)
-    languages = Counter(repo.get("language") for repo in repos if repo.get("language"))
-    top_languages = languages.most_common(3)
-    top_language = top_languages[0][0] if top_languages else "Building"
     updated = dt.datetime.now(dt.timezone.utc).strftime("%d %b %Y · %H:%M UTC")
 
     metrics = [
         ("PUBLIC REPOS", short_number(int(user.get("public_repos", 0))), "visible projects"),
         ("STARS EARNED", short_number(stars), "across repositories"),
         ("FOLLOWERS", short_number(int(user.get("followers", 0))), "people following"),
-        ("CURRENT SIGNAL", top_language, "most common language"),
+        ("FOLLOWING", short_number(int(user.get("following", 0))), "developers followed"),
     ]
 
     colors = ["#22D3EE", "#818CF8", "#38BDF8", "#A78BFA"]
     svg = [
         '<svg width="1100" height="330" viewBox="0 0 1100 330" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">',
         '<title id="title">Live GitHub dashboard for Md Mubaswir Biswas</title>',
-        '<desc id="desc">A repository-hosted dashboard showing public repositories, stars, followers, and the most common repository language.</desc>',
+        '<desc id="desc">A repository-hosted dashboard showing public repositories, stars, followers, and developers followed.</desc>',
         '<defs><linearGradient id="bg" x1="0" y1="0" x2="1100" y2="330" gradientUnits="userSpaceOnUse"><stop stop-color="#07111F"/><stop offset="1" stop-color="#102A43"/></linearGradient><linearGradient id="line" x1="0" y1="0" x2="1100" y2="0"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#818CF8"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#93C5FD" stroke-opacity="0.07"/></pattern></defs>',
         '<rect width="1100" height="330" rx="22" fill="url(#bg)"/><rect width="1100" height="330" rx="22" fill="url(#grid)"/>',
         '<path d="M0 285C190 250 320 305 470 266C650 219 745 93 1100 145" stroke="url(#line)" stroke-opacity="0.32" stroke-width="2"/>',

@@ -1,6 +1,6 @@
 <svg width="1100" height="330" viewBox="0 0 1100 330" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
 <title id="title">Live GitHub dashboard for Md Mubaswir Biswas</title>
-<desc id="desc">A repository-hosted dashboard showing public repositories, stars, followers, and the most common repository language.</desc>
+<desc id="desc">A repository-hosted dashboard showing public repositories, stars, followers, and developers followed.</desc>
 <defs><linearGradient id="bg" x1="0" y1="0" x2="1100" y2="330" gradientUnits="userSpaceOnUse"><stop stop-color="#07111F"/><stop offset="1" stop-color="#102A43"/></linearGradient><linearGradient id="line" x1="0" y1="0" x2="1100" y2="0"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#818CF8"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#93C5FD" stroke-opacity="0.07"/></pattern></defs>
 <rect width="1100" height="330" rx="22" fill="url(#bg)"/><rect width="1100" height="330" rx="22" fill="url(#grid)"/>
 <path d="M0 285C190 250 320 305 470 266C650 219 745 93 1100 145" stroke="url(#line)" stroke-opacity="0.32" stroke-width="2"/>
@@ -24,9 +24,16 @@
 <text x="574" y="247" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11px" font-weight="400" text-anchor="start">people following</text>
 <rect x="810" y="168" width="226" height="94" rx="14" fill="#0B172A" fill-opacity="0.78" stroke="#334155" stroke-opacity="0.7"/>
 <rect x="810" y="168" width="226" height="4" rx="2" fill="#A78BFA"/>
+<<<<<<< HEAD
 <text x="828" y="194" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11px" font-weight="700" text-anchor="start">CURRENT SIGNAL</text>
 <text x="828" y="225" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25px" font-weight="700" text-anchor="start">Python</text>
 <text x="828" y="247" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11px" font-weight="400" text-anchor="start">most common language</text>
 <text x="48" y="303" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12px" font-weight="400" text-anchor="start">Updated automatically · 24 Sep 2026 · 04:24 UTC</text>
+=======
+<text x="828" y="194" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11px" font-weight="700" text-anchor="start">FOLLOWING</text>
+<text x="828" y="225" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25px" font-weight="700" text-anchor="start">0</text>
+<text x="828" y="247" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11px" font-weight="400" text-anchor="start">developers followed</text>
+<text x="48" y="303" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12px" font-weight="400" text-anchor="start">Updated automatically · 24 Sep 2026 · 04:25 UTC</text>
+>>>>>>> 1292778 (Keep dashboard metrics strictly factual)
 <text x="1052" y="303" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12px" font-weight="400" text-anchor="end">github.com/momobiswas15-ops</text>
 </svg>
