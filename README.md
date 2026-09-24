@@ -36,6 +36,23 @@ I am an aspiring software developer from India, focused on turning ideas into cl
 | **I value** | Clarity, maintainability, documentation, and continuous improvement |
 | **I am open to** | Junior software roles, internships, collaboration, and open source |
 
+## Live profile metrics
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=momobiswas15-ops&label=Profile%20views&color=22D3EE&style=flat-square" alt="Profile views counter" />
+
+<br /><br />
+
+<img src="https://github-readme-stats.vercel.app/api?username=momobiswas15-ops&show_icons=true&hide_border=true&rank_icon=github&title_color=22D3EE&icon_color=818CF8&text_color=CBD5E1&bg_color=0B172A" alt="GitHub statistics for Md Mubaswir Biswas" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momobiswas15-ops&layout=compact&hide_border=true&title_color=22D3EE&text_color=CBD5E1&bg_color=0B172A&langs_count=6" alt="Most used programming languages on GitHub" height="165" />
+
+<br />
+
+<sub>These cards reflect public GitHub activity and update automatically.</sub>
+
+</div>
+
 ## Toolbox
 
 <div align="center">
