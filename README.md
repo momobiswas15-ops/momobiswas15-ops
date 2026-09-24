@@ -1,5 +1,13 @@
 <div align="center">
 
+<img src="./assets/profile-banner.svg" alt="Abstract dark developer banner with the words Build, Learn, Improve" width="100%" />
+
+</div>
+
+<br />
+
+<div align="center">
+
 # Md Mubaswir Biswas
 
 ### Aspiring Software Developer
@@ -7,46 +15,73 @@
 **Building practical, maintainable, and well-documented software.**
 
 [![Email](https://img.shields.io/badge/Email-momobiswas15%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:momobiswas15@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-momobiswas15--ops-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/momobiswas15-ops)
+[![Repositories](https://img.shields.io/badge/Explore_my_repositories-0f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/momobiswas15-ops?tab=repositories)
 
 </div>
 
 ---
 
-## About
+## A little about me
 
-I am an aspiring software developer from India focused on turning ideas into clear, reliable, and useful applications. I am building my foundation through hands-on projects, deliberate practice, and an emphasis on readable code, thoughtful architecture, and strong documentation.
+I am an aspiring software developer from India, focused on turning ideas into clear, reliable, and useful applications. I am building my foundation through hands-on projects and deliberate practice, with a particular interest in readable code, thoughtful architecture, and strong documentation.
 
-I am open to **junior software roles, internships, collaboration, and open-source contributions**.
+> **Current chapter:** building the fundamentals, shipping small projects, and improving one iteration at a time.
 
-## Technical Focus
+## Developer snapshot
 
-| Area | Technologies and practices |
+| | Focus |
 | --- | --- |
-| **Languages** | JavaScript, TypeScript, Python, SQL |
-| **Frontend** | HTML, CSS, React, Tailwind CSS |
-| **Backend** | Node.js, Express, REST APIs |
-| **Data** | PostgreSQL, MongoDB |
-| **Workflow** | Git, GitHub, VS Code, Postman, Docker |
-| **Engineering** | Clean architecture, testing habits, documentation, security-minded defaults |
+| **I am building** | Full-stack foundations and complete portfolio projects |
+| **I am learning** | TypeScript, React, Node.js, and system-design fundamentals |
+| **I value** | Clarity, maintainability, documentation, and continuous improvement |
+| **I am open to** | Junior software roles, internships, collaboration, and open source |
 
-## What I Am Working On
+## Toolbox
 
-- Building foundational full-stack projects with real user-facing functionality.
-- Strengthening TypeScript, React, Node.js, and system-design fundamentals.
-- Practicing clean commits, maintainable code, testing, and documentation.
-- Growing a portfolio of small, complete projects rather than unfinished demos.
+<div align="center">
 
-## Professional Principles
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- **Clarity first:** code should be easy to understand and maintain.
-- **Build to learn:** practical projects are the best way to turn concepts into capability.
-- **Document decisions:** good documentation makes collaboration and future changes easier.
-- **Improve continuously:** review, refactor, test, and ship better each time.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white)
 
-## Currently Building My Portfolio
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-This profile is intentionally transparent: I am actively developing my first production-quality projects and will feature them here as they become complete, documented, and useful. Until then, the focus is on consistent progress and solid engineering fundamentals.
+</div>
+
+## What you will find here
+
+I am intentionally building a portfolio of **small, complete, and useful projects** rather than collecting unfinished demos. As each project becomes ready, I will add it here with a clear README, setup instructions, screenshots where helpful, and the engineering decisions behind it.
+
+For now, this profile is the starting point: a public record of the skills I am developing and the standards I want to bring to every project.
+
+## How I work
+
+- **Clarity first:** write code that another person can understand and maintain.
+- **Build to learn:** turn concepts into working software through practical projects.
+- **Document decisions:** make setup, trade-offs, and next steps easy to follow.
+- **Improve continuously:** review, refactor, test, and ship a better iteration.
+
+<details>
+<summary><strong>My current learning loop</strong></summary>
+
+<br />
+
+1. Choose a small, real problem.
+2. Design the simplest useful version.
+3. Build with readable structure and sensible defaults.
+4. Test the important paths and document the result.
+5. Reflect, refactor, and carry the lesson into the next project.
+
+</details>
 
 ---
 
@@ -54,6 +89,10 @@ This profile is intentionally transparent: I am actively developing my first pro
 
 ### Let’s build something useful.
 
-[Email me](mailto:momobiswas15@gmail.com) · [View my repositories](https://github.com/momobiswas15-ops?tab=repositories)
+[Email Md Mubaswir Biswas](mailto:momobiswas15@gmail.com) · [Explore the repositories](https://github.com/momobiswas15-ops?tab=repositories)
+
+<br />
+
+<sub>Build with intent. Learn in public. Improve relentlessly.</sub>
 
 </div>
