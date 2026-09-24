@@ -44,7 +44,7 @@ I am an aspiring software developer from India, focused on turning ideas into cl
 
 <br /><br />
 
-<img src="./assets/profile-stats.svg" alt="Live GitHub dashboard showing public repositories, stars, followers, and current language signal" width="95%" />
+<img src="./assets/profile-stats.svg" alt="Live GitHub dashboard showing public repositories, stars, followers, and developers followed" width="95%" />
 
 <br />
 

@@ -24,16 +24,9 @@
 <text x="574" y="247" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11px" font-weight="400" text-anchor="start">people following</text>
 <rect x="810" y="168" width="226" height="94" rx="14" fill="#0B172A" fill-opacity="0.78" stroke="#334155" stroke-opacity="0.7"/>
 <rect x="810" y="168" width="226" height="4" rx="2" fill="#A78BFA"/>
-<<<<<<< HEAD
-<text x="828" y="194" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11px" font-weight="700" text-anchor="start">CURRENT SIGNAL</text>
-<text x="828" y="225" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25px" font-weight="700" text-anchor="start">Python</text>
-<text x="828" y="247" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11px" font-weight="400" text-anchor="start">most common language</text>
-<text x="48" y="303" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12px" font-weight="400" text-anchor="start">Updated automatically · 24 Sep 2026 · 04:24 UTC</text>
-=======
 <text x="828" y="194" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11px" font-weight="700" text-anchor="start">FOLLOWING</text>
 <text x="828" y="225" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25px" font-weight="700" text-anchor="start">0</text>
 <text x="828" y="247" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11px" font-weight="400" text-anchor="start">developers followed</text>
-<text x="48" y="303" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12px" font-weight="400" text-anchor="start">Updated automatically · 24 Sep 2026 · 04:25 UTC</text>
->>>>>>> 1292778 (Keep dashboard metrics strictly factual)
+<text x="48" y="303" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12px" font-weight="400" text-anchor="start">Updated automatically · 24 Sep 2026 · 04:26 UTC</text>
 <text x="1052" y="303" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12px" font-weight="400" text-anchor="end">github.com/momobiswas15-ops</text>
 </svg>
