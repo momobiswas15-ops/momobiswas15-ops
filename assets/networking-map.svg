@@ -20,6 +20,7 @@
     <circle cx="692" cy="192" r="4"><animate attributeName="r" values="4;7;4" dur="2.4s" begin="1.2s" repeatCount="indefinite"/></circle>
     <circle cx="916" cy="192" r="4"><animate attributeName="r" values="4;7;4" dur="2.4s" begin="1.8s" repeatCount="indefinite"/></circle>
     <circle cx="172" cy="192" r="3"><animate attributeName="cx" values="172;294;412;520;638;746;864;965" dur="7s" repeatCount="indefinite"/></circle>
+    <circle r="3" fill="#A5F3FC"><animateMotion path="M172,192 L294,192 L412,192 L520,192 L638,192 L746,192 L864,192 L965,192" dur="6s" begin="-3s" repeatCount="indefinite"/></circle>
   </g>
 
   <g font-family="Inter,Segoe UI,Arial,sans-serif">

@@ -22,16 +22,17 @@
       <feGaussianBlur stdDeviation="26"/>
     </filter>
   </defs>
-  <rect width="1280" height="360" rx="24" fill="url(#background)"/>
+  <rect width="1280" height="360" rx="24" fill="url(#background)" stroke="url(#accent)" stroke-opacity="0.45" stroke-width="2"><animate attributeName="stroke-opacity" values="0.25;0.65;0.25" dur="6s" repeatCount="indefinite"/></rect>
   <rect width="1280" height="360" rx="24" fill="url(#grid)"/>
   <rect width="1280" height="360" rx="24" fill="url(#glow)"/>
-  <circle cx="1080" cy="70" r="92" fill="#22D3EE" fill-opacity="0.13" filter="url(#blur)"/>
-  <circle cx="1185" cy="285" r="110" fill="#818CF8" fill-opacity="0.14" filter="url(#blur)"/>
+  <circle cx="1080" cy="70" r="92" fill="#22D3EE" fill-opacity="0.13" filter="url(#blur)"><animate attributeName="cx" values="1080;1150;1080" dur="8s" repeatCount="indefinite"/><animate attributeName="cy" values="70;120;70" dur="8s" repeatCount="indefinite"/></circle>
+  <circle cx="1185" cy="285" r="110" fill="#818CF8" fill-opacity="0.14" filter="url(#blur)"><animate attributeName="cx" values="1185;1110;1185" dur="10s" repeatCount="indefinite"/><animate attributeName="cy" values="285;240;285" dur="10s" repeatCount="indefinite"/></circle>
   <path d="M812 0H1280V360H970C1000 245 954 134 812 0Z" fill="#0EA5E9" fill-opacity="0.05"/>
-  <path d="M0 300C202 250 336 340 530 284C704 234 756 104 936 86" stroke="url(#accent)" stroke-opacity="0.45" stroke-width="2"/>
+  <path d="M0 300C202 250 336 340 530 284C704 234 756 104 936 86" stroke="url(#accent)" stroke-opacity="0.55" stroke-width="2" stroke-dasharray="10 16"><animate attributeName="stroke-dashoffset" values="0;-52" dur="4s" repeatCount="indefinite"/></path>
   <path d="M0 320C208 270 340 358 540 300C710 250 770 126 960 108" stroke="#E0F2FE" stroke-opacity="0.12" stroke-width="1"/>
   <g fill="#BAE6FD" fill-opacity="0.65">
-    <circle cx="948" cy="88" r="3"/><circle cx="1008" cy="156" r="2"/><circle cx="1115" cy="112" r="3"/><circle cx="1180" cy="226" r="2"/><circle cx="860" cy="246" r="2"/>
+    <circle cx="948" cy="88" r="3"><animate attributeName="opacity" values="0.25;1;0.25" dur="2.4s" repeatCount="indefinite"/></circle><circle cx="1008" cy="156" r="2"><animate attributeName="opacity" values="1;0.25;1" dur="3.1s" repeatCount="indefinite"/></circle><circle cx="1115" cy="112" r="3"><animate attributeName="opacity" values="0.25;1;0.25" dur="2.8s" repeatCount="indefinite"/></circle><circle cx="1180" cy="226" r="2"><animate attributeName="opacity" values="1;0.25;1" dur="3.6s" repeatCount="indefinite"/></circle><circle cx="860" cy="246" r="2"><animate attributeName="opacity" values="0.25;1;0.25" dur="2.1s" repeatCount="indefinite"/></circle>
+    <circle r="4" fill="#22D3EE" filter="url(#blur)"><animateMotion path="M0,300 C202,250 336,340 530,284 C704,234 756,104 936,86" dur="7s" repeatCount="indefinite"/></circle>
   </g>
   <text x="82" y="142" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="700" letter-spacing="-1">Md Mubaswir Biswas</text>
   <text x="86" y="188" fill="#BAE6FD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="500">Aspiring Software Developer · India</text>
