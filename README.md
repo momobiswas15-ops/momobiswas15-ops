@@ -19,6 +19,12 @@
 
 </div>
 
+<div align="center">
+
+<img src="./assets/focus-banner.svg" alt="Animated terminal-style banner introducing full-stack development, networking, DevOps, and a philosophy of clarity and continuous improvement" width="100%" />
+
+</div>
+
 ---
 
 ## A little about me

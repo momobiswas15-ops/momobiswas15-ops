@@ -1,0 +1,25 @@
+<svg width="1100" height="280" viewBox="0 0 1100 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Professional focus and engineering philosophy</title>
+  <desc id="desc">A terminal-inspired animated banner introducing full-stack development, networking and DevOps, and a philosophy of clarity, learning, and continuous improvement.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1100" y2="280" gradientUnits="userSpaceOnUse"><stop stop-color="#060B16"/><stop offset="1" stop-color="#111B3A"/></linearGradient>
+    <linearGradient id="edge" x1="40" y1="20" x2="1060" y2="260" gradientUnits="userSpaceOnUse"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#818CF8"/></linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="line1"><rect x="62" y="106" width="930" height="28"><animate attributeName="width" values="0;930;930;0" keyTimes="0;0.24;0.72;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="line2"><rect x="62" y="144" width="930" height="28"><animate attributeName="width" values="0;0;930;930;0" keyTimes="0;0.25;0.49;0.72;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="line3"><rect x="62" y="182" width="930" height="28"><animate attributeName="width" values="0;0;0;930;930;0" keyTimes="0;0.49;0.52;0.76;0.94;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
+  </defs>
+  <rect width="1100" height="280" rx="22" fill="url(#bg)" stroke="url(#edge)" stroke-opacity="0.55" stroke-width="2"/>
+  <rect x="24" y="24" width="1052" height="232" rx="15" fill="#0B172A" fill-opacity="0.58" stroke="#334155" stroke-opacity="0.8"/>
+  <circle cx="52" cy="50" r="6" fill="#FB7185"/><circle cx="74" cy="50" r="6" fill="#FBBF24"/><circle cx="96" cy="50" r="6" fill="#34D399"/>
+  <text x="124" y="56" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" font-weight="600">md-mubaswir/focus.sh</text>
+  <path d="M48 78H1052" stroke="#334155" stroke-opacity="0.8"/>
+  <text x="62" y="99" fill="#67E8F9" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13">$ cat professional_focus.txt</text>
+  <g fill="#E2E8F0" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="18" font-weight="600">
+    <text x="62" y="126" clip-path="url(#line1)"><tspan fill="#22D3EE">focus</tspan><tspan fill="#94A3B8">: </tspan>full-stack foundations · networking · DevOps</text>
+    <text x="62" y="164" clip-path="url(#line2)"><tspan fill="#818CF8">philosophy</tspan><tspan fill="#94A3B8">: </tspan>clarity over cleverness · learn by building</text>
+    <text x="62" y="202" clip-path="url(#line3)"><tspan fill="#A78BFA">commitment</tspan><tspan fill="#94A3B8">: </tspan>document decisions · improve every iteration</text>
+  </g>
+  <rect x="62" y="226" width="10" height="21" rx="2" fill="#22D3EE" filter="url(#glow)"><animate attributeName="opacity" values="1;0.15;1" dur="0.9s" repeatCount="indefinite"/></rect>
+  <text x="88" y="242" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13">// ship clean · learn fast · improve always</text>
+</svg>
