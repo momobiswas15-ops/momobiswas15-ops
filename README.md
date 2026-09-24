@@ -69,6 +69,16 @@ I am an aspiring software developer from India, focused on turning ideas into cl
 
 </details>
 
+## Public activity log
+
+<div align="center">
+
+<img src="./assets/profile-activity.svg" alt="Automatically refreshed timeline of recent public GitHub activity" width="100%" />
+
+<sub>Updated daily by GitHub Actions from public GitHub events. Run the workflow manually whenever you want a fresh snapshot.</sub>
+
+</div>
+
 ## Toolbox
 
 <div align="center">
