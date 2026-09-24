@@ -73,6 +73,25 @@ I am an aspiring software developer from India, focused on turning ideas into cl
 
 </div>
 
+## Networking & systems focus
+
+I am actively strengthening my understanding of how software moves through a system: from a client request and DNS lookup to an HTTP/REST API, a containerized service, and persistent data. This is a learning focus, not a claim of production networking expertise.
+
+<div align="center">
+
+<img src="./assets/networking-map.svg" alt="Networking and systems map connecting a client, DNS, REST API, Docker service, and data layer through HTTP and TCP/IP concepts" width="100%" />
+
+</div>
+
+<div align="center">
+
+![HTTP/HTTPS](https://img.shields.io/badge/HTTP%2FHTTPS-Learning-164E63?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST_APIs-Learning-164E63?style=flat-square)
+![DNS](https://img.shields.io/badge/DNS-Learning-312E81?style=flat-square)
+![TCP/IP fundamentals](https://img.shields.io/badge/TCP%2FIP_fundamentals-Learning-312E81?style=flat-square)
+
+</div>
+
 ## What you will find here
 
 I am intentionally building a portfolio of **small, complete, and useful projects** rather than collecting unfinished demos. As each project becomes ready, I will add it here with a clear README, setup instructions, screenshots where helpful, and the engineering decisions behind it.

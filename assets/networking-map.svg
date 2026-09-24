@@ -1,0 +1,39 @@
+<svg width="1100" height="390" viewBox="0 0 1100 390" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Networking and systems learning map</title>
+  <desc id="desc">A dark network diagram connecting a client, DNS, an API service, Docker, and a database through HTTP, REST, and TCP/IP concepts.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1100" y2="390" gradientUnits="userSpaceOnUse"><stop stop-color="#07111F"/><stop offset="1" stop-color="#102A43"/></linearGradient>
+    <linearGradient id="wire" x1="80" y1="100" x2="1020" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#818CF8"/></linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="7" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" stroke="#93C5FD" stroke-opacity="0.07"/></pattern>
+  </defs>
+  <rect width="1100" height="390" rx="22" fill="url(#bg)"/><rect width="1100" height="390" rx="22" fill="url(#grid)"/>
+  <text x="42" y="45" fill="#67E8F9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">NETWORKING &amp; SYSTEMS</text>
+  <text x="42" y="76" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="700">Following the path from request to response</text>
+  <text x="42" y="101" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">A visual map of the concepts I am actively strengthening.</text>
+
+  <path d="M172 192H294M412 192H520M638 192H746M864 192H965" stroke="url(#wire)" stroke-width="3" stroke-linecap="round" filter="url(#glow)"/>
+  <path d="M353 238C365 287 466 298 520 242M805 238C792 286 692 298 638 242" stroke="#818CF8" stroke-opacity="0.55" stroke-width="2" stroke-dasharray="5 7"/>
+  <g fill="#22D3EE" filter="url(#glow)"><circle cx="234" cy="192" r="4"/><circle cx="466" cy="192" r="4"/><circle cx="692" cy="192" r="4"/><circle cx="916" cy="192" r="4"/></g>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <rect x="58" y="151" width="114" height="82" rx="13" fill="#0B172A" stroke="#22D3EE" stroke-opacity="0.8"/>
+    <text x="115" y="183" text-anchor="middle" fill="#F8FAFC" font-size="16" font-weight="700">CLIENT</text><text x="115" y="207" text-anchor="middle" fill="#94A3B8" font-size="12">browser / app</text>
+    <rect x="294" y="151" width="118" height="82" rx="13" fill="#0B172A" stroke="#38BDF8" stroke-opacity="0.8"/>
+    <text x="353" y="183" text-anchor="middle" fill="#F8FAFC" font-size="16" font-weight="700">DNS</text><text x="353" y="207" text-anchor="middle" fill="#94A3B8" font-size="12">name → address</text>
+    <rect x="520" y="151" width="118" height="82" rx="13" fill="#0B172A" stroke="#818CF8" stroke-opacity="0.9"/>
+    <text x="579" y="183" text-anchor="middle" fill="#F8FAFC" font-size="16" font-weight="700">API</text><text x="579" y="207" text-anchor="middle" fill="#94A3B8" font-size="12">REST service</text>
+    <rect x="746" y="151" width="118" height="82" rx="13" fill="#0B172A" stroke="#A78BFA" stroke-opacity="0.9"/>
+    <text x="805" y="183" text-anchor="middle" fill="#F8FAFC" font-size="16" font-weight="700">DOCKER</text><text x="805" y="207" text-anchor="middle" fill="#94A3B8" font-size="12">isolated service</text>
+    <rect x="965" y="151" width="90" height="82" rx="13" fill="#0B172A" stroke="#C4B5FD" stroke-opacity="0.9"/>
+    <text x="1010" y="183" text-anchor="middle" fill="#F8FAFC" font-size="16" font-weight="700">DATA</text><text x="1010" y="207" text-anchor="middle" fill="#94A3B8" font-size="12">SQL / NoSQL</text>
+  </g>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">
+    <rect x="190" y="260" width="108" height="30" rx="15" fill="#164E63" fill-opacity="0.75"/><text x="244" y="280" text-anchor="middle" fill="#A5F3FC">HTTP / HTTPS</text>
+    <rect x="470" y="260" width="70" height="30" rx="15" fill="#312E81" fill-opacity="0.75"/><text x="505" y="280" text-anchor="middle" fill="#C4B5FD">REST</text>
+    <rect x="660" y="260" width="88" height="30" rx="15" fill="#312E81" fill-opacity="0.75"/><text x="704" y="280" text-anchor="middle" fill="#C4B5FD">TCP / IP</text>
+    <rect x="394" y="326" width="118" height="30" rx="15" fill="#164E63" fill-opacity="0.75"/><text x="453" y="346" text-anchor="middle" fill="#A5F3FC">CLIENT–SERVER</text>
+    <rect x="590" y="326" width="116" height="30" rx="15" fill="#312E81" fill-opacity="0.75"/><text x="648" y="346" text-anchor="middle" fill="#C4B5FD">CONTAINERS</text>
+  </g>
+</svg>
