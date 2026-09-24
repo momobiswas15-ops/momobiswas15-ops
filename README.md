@@ -103,6 +103,16 @@ I am actively strengthening my understanding of how software moves through a sys
 
 </div>
 
+## Networking & DevOps stack
+
+The visual grid below highlights the core networking and delivery concepts I am actively practicing. The labels describe my current focus areas, not years of production experience.
+
+<div align="center">
+
+<img src="./assets/networking-devops-stack.svg" alt="Glowing technology grid featuring HTTP and HTTPS, REST APIs, DNS, TCP/IP, Docker, and GitHub Actions" width="100%" />
+
+</div>
+
 ## What you will find here
 
 I am intentionally building a portfolio of **small, complete, and useful projects** rather than collecting unfinished demos. As each project becomes ready, I will add it here with a clear README, setup instructions, screenshots where helpful, and the engineering decisions behind it.

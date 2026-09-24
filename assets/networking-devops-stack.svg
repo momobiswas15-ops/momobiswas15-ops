@@ -1,0 +1,49 @@
+<svg width="1100" height="360" viewBox="0 0 1100 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Networking and DevOps technology focus</title>
+  <desc id="desc">A glowing six-card technology grid featuring HTTP and HTTPS, REST APIs, DNS, TCP/IP, Docker, and GitHub Actions.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1100" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#07111F"/><stop offset="1" stop-color="#111B3A"/></linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#0E7490"/></linearGradient>
+    <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#A78BFA"/><stop offset="1" stop-color="#4F46E5"/></linearGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="6" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" stroke="#93C5FD" stroke-opacity="0.06"/></pattern>
+  </defs>
+  <rect width="1100" height="360" rx="22" fill="url(#bg)"/><rect width="1100" height="360" rx="22" fill="url(#grid)"/>
+  <text x="42" y="45" fill="#67E8F9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">NETWORKING &amp; DEVOPS STACK</text>
+  <text x="42" y="76" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="700">Core technologies I am strengthening</text>
+  <text x="42" y="101" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">Protocols, services, containers, and automation — one layer at a time.</text>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <rect x="42" y="133" width="326" height="82" rx="15" fill="#0B172A" stroke="#22D3EE" stroke-opacity="0.65"/>
+    <rect x="42" y="133" width="5" height="82" rx="2.5" fill="url(#cyan)" filter="url(#softGlow)"/>
+    <circle cx="76" cy="174" r="18" fill="#164E63"/><text x="76" y="180" text-anchor="middle" fill="#A5F3FC" font-size="17" font-weight="700">↔</text>
+    <text x="108" y="168" fill="#F8FAFC" font-size="17" font-weight="700">HTTP / HTTPS</text><text x="108" y="190" fill="#94A3B8" font-size="12">requests, responses, secure transport</text>
+
+    <rect x="387" y="133" width="326" height="82" rx="15" fill="#0B172A" stroke="#818CF8" stroke-opacity="0.65"/>
+    <rect x="387" y="133" width="5" height="82" rx="2.5" fill="url(#violet)" filter="url(#softGlow)"/>
+    <circle cx="421" cy="174" r="18" fill="#312E81"/><text x="421" y="180" text-anchor="middle" fill="#C4B5FD" font-size="15" font-weight="700">API</text>
+    <text x="453" y="168" fill="#F8FAFC" font-size="17" font-weight="700">REST APIs</text><text x="453" y="190" fill="#94A3B8" font-size="12">resources, routes, integration</text>
+
+    <rect x="732" y="133" width="326" height="82" rx="15" fill="#0B172A" stroke="#22D3EE" stroke-opacity="0.65"/>
+    <rect x="732" y="133" width="5" height="82" rx="2.5" fill="url(#cyan)" filter="url(#softGlow)"/>
+    <circle cx="766" cy="174" r="18" fill="#164E63"/><text x="766" y="180" text-anchor="middle" fill="#A5F3FC" font-size="14" font-weight="700">DNS</text>
+    <text x="798" y="168" fill="#F8FAFC" font-size="17" font-weight="700">DNS</text><text x="798" y="190" fill="#94A3B8" font-size="12">names, records, resolution</text>
+
+    <rect x="42" y="237" width="326" height="82" rx="15" fill="#0B172A" stroke="#818CF8" stroke-opacity="0.65"/>
+    <rect x="42" y="237" width="5" height="82" rx="2.5" fill="url(#violet)" filter="url(#softGlow)"/>
+    <circle cx="76" cy="278" r="18" fill="#312E81"/><text x="76" y="283" text-anchor="middle" fill="#C4B5FD" font-size="12" font-weight="700">IP</text>
+    <text x="108" y="272" fill="#F8FAFC" font-size="17" font-weight="700">TCP / IP</text><text x="108" y="294" fill="#94A3B8" font-size="12">connections, routing, reliability</text>
+
+    <rect x="387" y="237" width="326" height="82" rx="15" fill="#0B172A" stroke="#22D3EE" stroke-opacity="0.65"/>
+    <rect x="387" y="237" width="5" height="82" rx="2.5" fill="url(#cyan)" filter="url(#softGlow)"/>
+    <circle cx="421" cy="278" r="18" fill="#164E63"/><text x="421" y="283" text-anchor="middle" fill="#A5F3FC" font-size="13" font-weight="700">▣</text>
+    <text x="453" y="272" fill="#F8FAFC" font-size="17" font-weight="700">Docker</text><text x="453" y="294" fill="#94A3B8" font-size="12">containers, images, services</text>
+
+    <rect x="732" y="237" width="326" height="82" rx="15" fill="#0B172A" stroke="#818CF8" stroke-opacity="0.65"/>
+    <rect x="732" y="237" width="5" height="82" rx="2.5" fill="url(#violet)" filter="url(#softGlow)"/>
+    <circle cx="766" cy="278" r="18" fill="#312E81"/><text x="766" y="283" text-anchor="middle" fill="#C4B5FD" font-size="15" font-weight="700">▶</text>
+    <text x="798" y="272" fill="#F8FAFC" font-size="17" font-weight="700">GitHub Actions</text><text x="798" y="294" fill="#94A3B8" font-size="12">automation, checks, delivery</text>
+  </g>
+
+  <g fill="#22D3EE" filter="url(#softGlow)"><circle cx="370" cy="115" r="2"><animate attributeName="opacity" values="0.25;1;0.25" dur="2.2s" repeatCount="indefinite"/></circle><circle cx="730" cy="329" r="2"><animate attributeName="opacity" values="1;0.25;1" dur="2.8s" repeatCount="indefinite"/></circle></g>
+</svg>
